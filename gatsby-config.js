@@ -1,10 +1,11 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/website',
   siteMetadata: {
     title: 'Shubh Maheshwari',
     description: 'I am reseacher who specializes in 3D Vision and computer graphics',
-    siteUrl: 'https://shubh.maheshwari.github.io', // No trailing slash allowed!
+    siteUrl: 'https://shubh.maheshwari.github.io/website', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@maheshwarishubh9',
   },
