@@ -83,7 +83,7 @@ const StyledProject = styled.li`
       }
     }
     .project-image {
-      grid-column: 1 / 8;
+      grid-column: 1 / 7;
 
       @media (max-width: 768px) {
         grid-column: 1 / -1;
@@ -93,7 +93,7 @@ const StyledProject = styled.li`
 
   .project-content {
     position: relative;
-    grid-column: 1 / 7;
+    grid-column: 1 / 6;
     grid-row: 1 / -1;
 
     @media (max-width: 1080px) {
@@ -250,13 +250,13 @@ const StyledProject = styled.li`
     @media (max-width: 768px) {
       grid-column: 1 / -1;
       height: 100%;
-      opacity: 0.25;
+      // opacity: 0.25;
     }
 
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+      background: var(--white);
       border-radius: var(--border-radius);
       vertical-align: middle;
 
@@ -264,10 +264,11 @@ const StyledProject = styled.li`
       &:focus {
         background: transparent;
         outline: 0;
+        // z-index: 2
 
         &:before,
         .img {
-          background: transparent;
+          // background: transparent;
           filter: none;
         }
       }
@@ -348,7 +349,7 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Some Things I’ve Built
+        Projects
       </h2>
 
       <StyledProjectsGrid>

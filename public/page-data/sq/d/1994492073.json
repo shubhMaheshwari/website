@@ -1,0 +1,13 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Shubh Maheshwari",
+        "defaultDescription": "I am reseacher who specializes in 3D Vision and computer graphics",
+        "siteUrl": "https://shubh.maheshwari.github.io",
+        "defaultImage": "/og.png",
+        "twitterUsername": "@maheshwarishubh9"
+      }
+    }
+  }
+}
