@@ -1,10 +1,11 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/website',
   siteMetadata: {
     title: 'Shubh Maheshwari',
     description: 'I am reseacher who specializes in 3D Vision and computer graphics',
-    siteUrl: 'https://shubh.maheshwari.github.io/website', // No trailing slash allowed!
+    siteUrl: 'https://shubh.maheshwari.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@maheshwarishubh9',
   },
@@ -19,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'ShubhMaheshwari',
+        short_name: 'ShubhMaheshari',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
