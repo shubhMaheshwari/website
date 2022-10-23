@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  // pathPrefix: '/website',
+  pathPrefix: '/website',
   siteMetadata: {
     title: 'Shubh Maheshwari',
     description: 'I am reseacher who specializes in 3D Vision and computer graphics',
