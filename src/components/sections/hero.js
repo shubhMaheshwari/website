@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a researcher with a goal of democratising 3D content creation. I specialize in 3D
-        Vision, Computer Graphics, Machine Learning and AI. Currently, I am building a frugal motion
-        capture system to reduce mundane animating procedures.
+        I'm a researcher with the goal of democratizing 3D content creation. I specialize in 3D
+        Vision, Computer Graphics, Machine Learning, and AI. Currently, I am building a frugal
+        motion capture system to reduce mundane animating procedures.
       </p>
     </>
   );
