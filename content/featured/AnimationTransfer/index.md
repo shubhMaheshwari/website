@@ -3,7 +3,7 @@ date: '1'
 title: 'Frugal Motion Capture'
 cover: './AnimationTransfer-Pipeline-Diagram.jpeg'
 github: ''
-cta: ''
+cta: 'https://shubhmaheshwari.github.io/website/Transfer4D.pdf'
 tech:
   - Non-Rigid Registration
   - Skeletonization
