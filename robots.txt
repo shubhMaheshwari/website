@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://shubh.maheshwari.github.io/sitemap/sitemap-index.xml
-Host: https://shubh.maheshwari.github.io
+Sitemap: https://shubhmaheshwari.github.io/sitemap/sitemap-index.xml
+Host: https://shubhmaheshwari.github.io
