@@ -22,7 +22,7 @@
     "prepare": "husky install",
     "lint-staged": "lint-staged",
     "lint": "eslint",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b main --repo https://github.com/shubhMaheshwari/shubhmaheshwari.github.io.git"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
