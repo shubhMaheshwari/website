@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Skeleton Action Generation'
 cover: './cover_image.jpeg'
 github: 'https://github.com/skelemoa/dsag'

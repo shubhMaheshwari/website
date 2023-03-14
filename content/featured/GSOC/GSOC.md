@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: 'Recognition using multi-modal perception system'
 cover: './final.webp'
 cta: 'https://www.youtube.com/watch/Lt7oiOuUIJA'
