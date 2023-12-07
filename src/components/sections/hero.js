@@ -65,10 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a researcher with the goal of democratizing 3D content creation. I specialize in 3D
+        I'm a researcher with the goal to democratize 3D content creation. I specialize in 3D
         Vision, Computer Graphics, Machine Learning, and AI. Currently, I am building a frugal
-        motion capture system to reduce mundane animating procedures.
+        motion capture systems to reduce mundane animating procedures.
       </p>
+      <canvas id="c"></canvas>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/108/three.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/gh/mrdoob/Three.js@r92/examples/js/loaders/GLTFLoader.js"></script>
+      <script src="humanInteractive.js"></script>
     </>
   );
   const five = (

@@ -175,11 +175,21 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/ShubhMaheshwari.pdf"
+      href="/Resume-Shubh_Maheshwari.pdf"
       target="_blank"
       rel="noopener noreferrer"
     >
       Resume
+    </a>
+  );
+  const ResearchStatement = (
+    <a
+      className="research"
+      href="/Resume-Shubh_Maheshwari.pdf"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Research Statement
     </a>
   );
 
@@ -200,6 +210,7 @@ const Nav = ({ isHome }) => {
                   ))}
               </ol>
               <div>{ResumeLink}</div>
+              <div>{ResearchStatement}</div>
             </StyledLinks>
 
             <Menu />

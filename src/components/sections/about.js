@@ -131,6 +131,7 @@ const About = () => {
     'Deformation Transfer',
     'Motion Capture',
     'Action Generation & Recognition',
+    'Generative AI',
   ];
 
   return (
@@ -143,20 +144,21 @@ const About = () => {
             <p>
               Hello! My name is Shubh Maheshwari. I enjoy creating scalable solutions for 3D content
               creation. To make this possible, I am incorporating recent deep-learning techniques
-              into 3D vision and graphics.
+              into 3D vision and graphics. Currently, I am at gradute at UCSD working on human
+              animation generation & transfer.
             </p>
-
             <p>
-              Currently, I am working at{'TCS Innovation Labs'} as a researcher under{' '}
-              <a href="https://www.linkedin.com/in/ramya-hebbalaguppe-620b272/">
-                Ramya Hebbalaguppe
-              </a>{' '}
-              in collaboration with{' '}
-              <a href="https://www.cse.iitd.ac.in/~narain/">Rahul Narain (IIT-Delhi)</a>. Also, I
-              have been working on synthesizing animations using text under{' '}
-              <a href="https://ravika.github.io/"> Ravi Kiran(IIIT-H) </a>. I did my B.Tech in
-              computer science from <a href="https://www.iiit.ac.in/"> IIIT-H </a> where I worked
-              under <a href="https://faculty.iiit.ac.in/~jawahar/"> C.V. Jawahar </a> for my honors
+              I have worked at {' TCS Innovation Labs'} as a researcher under{' '}
+              <a href="https://rhebbalaguppe.github.io/">Ramya Hebbalaguppe</a> in collaboration
+              with <a href="https://www.cse.iitd.ac.in/~narain/">Rahul Narain (IIT-Delhi)</a> on
+              retargetting motion from single depth image to similar 3D characters. Also, I am
+              working on synthesizing animations using text under{' '}
+              <a href="https://ravika.github.io/"> Ravi Kiran(IIIT-H) </a>.
+            </p>
+            <p>
+              I did my B.Tech in computer science from{' '}
+              <a href="https://www.iiit.ac.in/"> IIIT-H </a> where I worked under{' '}
+              <a href="https://faculty.iiit.ac.in/~jawahar/"> C.V. Jawahar </a> for my honors
               project.
             </p>
 

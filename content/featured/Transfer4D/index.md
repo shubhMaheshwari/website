@@ -5,6 +5,7 @@ cover: './cover_image.jpeg'
 github: 'https://transfer4d.github.io/'
 cta: 'https://transfer4d.github.io/'
 tech:
+  - CVPR 23'
   - Motion Capture
   - Skeletons
   - Deformation Transfer

@@ -5,6 +5,7 @@ cover: './cover_image.png'
 github: 'https://github.com/actiongpt/actiongpt'
 cta: 'https://actiongpt.github.io/'
 tech:
+  - ICME 23'
   - Motion Synthesis
   - GPT
   - Zero-Shot

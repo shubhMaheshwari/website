@@ -5,6 +5,7 @@ cover: './dsag-teaser.jpg'
 github: 'https://github.com/skelemoa/dsag'
 cta: 'https://skeleton.iiit.ac.in/dsag'
 tech:
+  - WACV 22'
   - SMPL
   - ExPose
   - Self-Attention

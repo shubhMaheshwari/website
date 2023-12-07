@@ -5,6 +5,7 @@ cover: './cover_image.jpeg'
 github: 'https://github.com/skelemoa/dsag'
 cta: 'https://skeleton.iiit.ac.in/dsag'
 tech:
+  - WACV 21'
   - VAE
   - Class-conditioning
   - Kinematics
