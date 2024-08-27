@@ -144,25 +144,25 @@ const About = () => {
             <p>
               Hello! My name is Shubh Maheshwari. I enjoy creating scalable solutions for 3D content
               creation. To make this possible, I am incorporating recent deep-learning techniques
-              into 3D vision and graphics. Currently, I am at gradute at UCSD working on human
-              animation generation & transfer.
+              into 3D vision and graphics. Currently, I am working as a graduate researcher at{' '}
+              <a href="https://cse.ucsd.edu/">UCSD</a> under{' '}
+              <a href="https://roseyu.com/">Rose Yu</a> on score-guided diffusion models for sports
+              analytics.
             </p>
             <p>
-              I have worked at {' TCS Innovation Labs'} as a researcher under{' '}
+              I have worked at TCS Innovation Labs as a researcher under
               <a href="https://rhebbalaguppe.github.io/">Ramya Hebbalaguppe</a> in collaboration
               with <a href="https://www.cse.iitd.ac.in/~narain/">Rahul Narain (IIT-Delhi)</a> on
-              retargetting motion from single depth image to similar 3D characters. Also, I am
-              working on synthesizing animations using text under{' '}
-              <a href="https://ravika.github.io/"> Ravi Kiran(IIIT-H) </a>.
+              retargeting motion from single depth images to similar 3D characters. Additionally, I
+              am working on synthesizing animations using text under
+              <a href="https://ravika.github.io/">Ravi Kiran (IIIT-H)</a>.
             </p>
             <p>
-              I did my B.Tech in computer science from{' '}
-              <a href="https://www.iiit.ac.in/"> IIIT-H </a> where I worked under{' '}
-              <a href="https://faculty.iiit.ac.in/~jawahar/"> C.V. Jawahar </a> for my honors
-              project.
+              I completed my B.Tech in computer science from
+              <a href="https://www.iiit.ac.in/">IIIT-H</a> where I worked under
+              <a href="https://faculty.iiit.ac.in/~jawahar/">C.V. Jawahar</a> for my honors project.
             </p>
-
-            <p>I am intrested in solving following problems:</p>
+            <p>I am interested in solving the following problems:</p>
           </div>
 
           <ul className="skills-list">
