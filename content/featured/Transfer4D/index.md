@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Frugal Motion Capture'
 cover: './cover_image.jpeg'
 github: 'https://transfer4d.github.io/'

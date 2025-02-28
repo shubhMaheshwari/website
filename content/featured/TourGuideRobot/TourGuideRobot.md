@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '9'
 title: 'College Tour Guide Robot'
 cover: './demo.jpeg'
 cta: https://youtu.be/I3Pdhcx2EWo

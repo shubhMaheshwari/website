@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '6'
 title: 'Full Body Action Generation'
 cover: './dsag-teaser.jpg'
 github: 'https://github.com/skelemoa/dsag'

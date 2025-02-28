@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '8'
 title: 'Document Tampering Detection'
 cover: './document_tampering.png'
 cta: https://shubhmaheshwari.github.io/documentImageTampering/
